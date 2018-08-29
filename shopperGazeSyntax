@@ -1,0 +1,6 @@
+root@ieisw-SER0:/home/ieisw/Desktop/aicra/08152018-gaze2/shopper-gaze-monitor-cpp/build# 
+
+./monitor -m=/opt/intel/computer_vision_sdk/deployment_tools/intel_models/face-detection-adas-0001/FP32/face-detection-adas-0001.bin -c=/opt/intel/computer_vision_sdk/deployment_tools/intel_models/face-detection-adas-0001/FP32/face-detection-adas-0001.xml -pm=/opt/intel/computer_vision_sdk/deployment_tools/intel_models/head-pose-estimation-adas-0001/FP32/head-pose-estimation-adas-0001.bin -pc=/opt/intel/computer_vision_sdk/deployment_tools/intel_models/head-pose-estimation-adas-0001/FP32/head-pose-estimation-adas-0001.xml -i=../head-pose-face-detection-male.mp4 -b=2 -t=1
+
+NOTE:
+-i=
